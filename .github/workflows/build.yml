@@ -30,4 +30,3 @@ jobs:
           name: PSTranslateTV-apk
           path: tv/build/outputs/apk/debug/tv-debug.apk
           if-no-files-found: ignore
-
